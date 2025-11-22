@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>  
+    <title>Pluribus</title>
+    <originaltitle>Pluribus</originaltitle>
+    <sorttitle>Pluribus</sorttitle>
+    <status>Continuing</status>
+    <premiered>2025-11-07</premiered>
+    <enddate></enddate>
+    <mpaa>TV-MA</mpaa>
+    <rating></rating>
+    <studio>Apple TV</studio>
+    <tmdbid>225171</tmdbid>
+
+    <tagline>Happiness is a state of mind</tagline>
+    <plot>The most miserable person on Earth must save the world from happiness.</plot>
+    
+    <genre>Drama</genre>
+    <genre>Sci-Fi</genre>
+  
+    <tag>New Mexico</tag>
+    
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>0</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
+        <order>2</order>
+    </actor>
+</tvshow>
