@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>1</episode>
+    <title>We Is Us</title>
+    <premiered>2025-11-07</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>An astronomer's discovery turns the planet upside down. Carol Sturka, a curmudgeonly novelist, is terrified by this strange new world.</plot>
+
+    <director>Vince Gilligan</director>
+    <writer>Vince Gilligan</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>0</order>
+    </actor>
+    <actor>
+        <name>Miriam Shor</name>
+        <role>Helen</role>
+        <order>1</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Peter Bergman</name>
+        <role>Davis Taffler</role>
+        <order>2</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Karan Soni</name>
+        <role>Deshpande</role>
+        <order>3</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Allan McLeod</name>
+        <role>Bob</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jack Mikesell</name>
+        <role>Ray</role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Woody Fu</name>
+        <role>Dave</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Blair Beeken</name>
+        <role>Jenn</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Eric Steinig</name>
+        <role>Mel</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Bernadette Guckin</name>
+        <role>Maureen</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Monique Lott</name>
+        <role>Monique</role>
+        <order>10</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Monae Lott</name>
+        <role>Monae</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Sam Quinn</name>
+        <role>Craig</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Dennis W. Milliken</name>
+        <role>Driver</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Adam Harvey</name>
+        <role>Hippie Astronomer</role>
+        <order>14</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Kacie LaCombe</name>
+        <role>Redhead Astronomer</role>
+        <order>15</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Nazneen Akhtar Rahim</name>
+        <role>Laptop Astronomer</role>
+        <order>16</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Michael Toby Sanchez</name>
+        <role>Janitor</role>
+        <order>17</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Teagan Sucherman</name>
+        <role>Neighbor Girl</role>
+        <order>18</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Isak Tufic</name>
+        <role>Neighbor Boy</role>
+        <order>19</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Pat Reyes</name>
+        <role>Singer / Rhythm Guitarist</role>
+        <order>20</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Alexandra Robnett</name>
+        <role>Fiddle Player</role>
+        <order>21</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Brandon Krawic</name>
+        <role>Bass Player</role>
+        <order>22</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Harold Montoya</name>
+        <role>Drummer</role>
+        <order>23</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Joe Sena</name>
+        <role>Lead Guitarist</role>
+        <order>24</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>
