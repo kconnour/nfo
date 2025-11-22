@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<season>
+    <seasonnumber>1</seasonnumber>
+    <title>Season 1</title>
+    <premiered>2025-11-07</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot></plot>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>0</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
+        <order>2</order>
+    </actor>
+</season>
