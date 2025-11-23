@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>1</episode>
+    <title>Good News About Hell</title>
+    <premiered>2022-02-18</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>Mark is promoted to lead a team of employees who've had their memories surgically divided between their work and personal lives.</plot>
+
+    <director>Ben Stiller</director>
+    <writer>Dan Erickson</writer>
+
+    <actor>
+        <name>Adam Scott</name>
+        <role>Mark Scout</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Zach Cherry</name>
+        <role>Dylan George</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Britt Lower</name>
+        <role>Helly Riggs</role>
+        <order>3</order>
+    </actor>
+    <actor>
+        <name>Tramell Tillman</name>
+        <role>Seth Milchick</role>
+        <order>4</order>
+    </actor>
+    <actor>
+        <name>Jen Tullock</name>
+        <role>Devon Scout-Hale</role>
+        <order>5</order>
+    </actor>
+    <actor>
+        <name>Dichen Lachman</name>
+        <role>Ms. Casey</role>
+        <order>6</order>
+    </actor>
+    <actor>
+        <name>Michael Chernus</name>
+        <role>Ricken Hale</role>
+        <order>7</order>
+    </actor>
+    <actor>
+        <name>John Turturro</name>
+        <role>Irving Bailiff</role>
+        <order>8</order>
+    </actor>
+    <actor>
+        <name>Christopher Walken</name>
+        <role>Burt Goodman</role>
+        <order>9</order>
+    </actor>
+    <actor>
+        <name>Patricia Arquette</name>
+        <role>Harmony Cobel</role>
+        <order>10</order>
+    </actor>
+    <actor>
+        <name>Michael Cumpsty</name>
+        <role>Doug Graner</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Yul Vazquez</name>
+        <role>Peter Kilmer</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Annie McNamara</name>
+        <role>Danise</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Donald Webber Jr.</name>
+        <role>Patton</role>
+        <order>14</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Grace Rex</name>
+        <role>Rebeck</role>
+        <order>15</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Anthoula Katsimatides</name>
+        <role>Florence</role>
+        <order>16</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Mark Kenneth Smaltz</name>
+        <role>Judd</role>
+        <order>17</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Marc Geller</name>
+        <role>Kier Eagan</role>
+        <order>18</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jeff McCarthy</name>
+        <role>Nature Documentary Voice</role>
+        <order>19</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>
