@@ -10,16 +10,16 @@
     <actor>
         <name>Rhea Seehorn</name>
         <role>Carol Sturka</role>
-        <order>0</order>
+        <order>1</order>
     </actor>
     <actor>
         <name>Karolina Wydra</name>
         <role>Zosia</role>
-        <order>1</order>
+        <order>2</order>
     </actor>
     <actor>
         <name>Carlos-Manuel Vesga</name>
         <role>Manousos Oviedo</role>
-        <order>2</order>
+        <order>3</order>
     </actor>
 </season>
