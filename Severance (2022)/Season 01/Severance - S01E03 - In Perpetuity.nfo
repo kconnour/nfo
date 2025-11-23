@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>3</episode>
+    <title>In Perpetuity</title>
+    <premiered>2022-02-25</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>Mark takes the team on a field trip, but Helly continues to rebel.</plot>
+
+    <director>Ben Stiller</director>
+    <writer>Andrew Colville</writer>
+
+    <actor>
+        <name>Adam Scott</name>
+        <role>Mark Scout</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Zach Cherry</name>
+        <role>Dylan George</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Britt Lower</name>
+        <role>Helly Riggs</role>
+        <order>3</order>
+    </actor>
+    <actor>
+        <name>Tramell Tillman</name>
+        <role>Seth Milchick</role>
+        <order>4</order>
+    </actor>
+    <actor>
+        <name>Jen Tullock</name>
+        <role>Devon Scout-Hale</role>
+        <order>5</order>
+    </actor>
+    <actor>
+        <name>Dichen Lachman</name>
+        <role>Ms. Casey</role>
+        <order>6</order>
+    </actor>
+    <actor>
+        <name>Michael Chernus</name>
+        <role>Ricken Hale</role>
+        <order>7</order>
+    </actor>
+    <actor>
+        <name>John Turturro</name>
+        <role>Irving Bailiff</role>
+        <order>8</order>
+    </actor>
+    <actor>
+        <name>Christopher Walken</name>
+        <role>Burt Goodman</role>
+        <order>9</order>
+    </actor>
+    <actor>
+        <name>Patricia Arquette</name>
+        <role>Harmony Cobel</role>
+        <order>10</order>
+    </actor>
+    <actor>
+        <name>Yul Vazquez</name>
+        <role>Peter Kilmer</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Sydney Cole Alexander</name>
+        <role>Natalie Kalen</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Michael Cumpsty</name>
+        <role>Doug Graner</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Michael Siberry</name>
+        <role>Jame Eagan</role>
+        <order>14</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Alexis Cofield</name>
+        <role>Checkout Girl</role>
+        <order>15</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Alexandra Ferrara</name>
+        <role>Weather Channel Voiceover</role>
+        <order>16</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Marc Geller</name>
+        <role>Kier Eagan</role>
+        <order>17</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Michael Cruz Kayne</name>
+        <role>Steven</role>
+        <order>18</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jillian Lindig</name>
+        <role>Myrtle Eagan</role>
+        <order>19</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Lou Martini Jr.</name>
+        <role>Cop Voiceover</role>
+        <order>20</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Mark Kenneth Smaltz</name>
+        <role>Judd</role>
+        <order>21</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Claudia Robinson</name>
+        <role>Felica</role>
+        <order>22</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>
