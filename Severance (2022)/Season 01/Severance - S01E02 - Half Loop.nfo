@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>2</episode>
+    <title>Half Loop</title>
+    <premiered>2022-02-18</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>The team train new hire Helly on macrodata refinement. Mark takes a day off to meet with a mysterious former colleague.</plot>
+
+    <director>Ben Stiller</director>
+    <writer>Dan Erickson</writer>
+
+    <actor>
+        <name>Adam Scott</name>
+        <role>Mark Scout</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Zach Cherry</name>
+        <role>Dylan George</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Britt Lower</name>
+        <role>Helly Riggs</role>
+        <order>3</order>
+    </actor>
+    <actor>
+        <name>Tramell Tillman</name>
+        <role>Seth Milchick</role>
+        <order>4</order>
+    </actor>
+    <actor>
+        <name>Jen Tullock</name>
+        <role>Devon Scout-Hale</role>
+        <order>5</order>
+    </actor>
+    <actor>
+        <name>Dichen Lachman</name>
+        <role>Ms. Casey</role>
+        <order>6</order>
+    </actor>
+    <actor>
+        <name>Michael Chernus</name>
+        <role>Ricken Hale</role>
+        <order>7</order>
+    </actor>
+    <actor>
+        <name>John Turturro</name>
+        <role>Irving Bailiff</role>
+        <order>8</order>
+    </actor>
+    <actor>
+        <name>Christopher Walken</name>
+        <role>Burt Goodman</role>
+        <order>9</order>
+    </actor>
+    <actor>
+        <name>Patricia Arquette</name>
+        <role>Harmony Cobel</role>
+        <order>10</order>
+    </actor>
+    <actor>
+        <name>Yul Vazquez</name>
+        <role>Peter Kilmer</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Michael Cumpsty</name>
+        <role>Doug Graner</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Nikki M. James</name>
+        <role>Alexa</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Marc Geller</name>
+        <role>Kier Eagan</role>
+        <order>14</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Hudson Flynn</name>
+        <role>WMC Activist 1</role>
+        <order>15</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Ruby Stevens</name>
+        <role>WMC Activist 2</role>
+        <order>16</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>
