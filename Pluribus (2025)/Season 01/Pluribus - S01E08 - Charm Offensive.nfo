@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>8</episode>
+    <title>Charm Offensive</title>
+    <premiered>2025-12-19</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>Carol shares a horrific discovery and learns new truths in the process. Mr. Diabaté lives life to the fullest in Sin City.</plot>
+
+    <director>Gordon Smith</director>
+    <writer>Jonny Gomez</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Menik Gooneratne</name>
+        <role>Laxmi</role>
+        <order>3</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Rayaan Kamal Khan</name>
+        <role>Ravi</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Merritt C. Glover</name>
+        <role>Nurse</role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Tara Southerland</name>
+        <role>Tatted-Out Orderly</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Roy Ward</name>
+        <role>Stone-Faced Man</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Elliott Mayer</name>
+        <role>Placid Patient</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Sam Appenzeller</name>
+        <role>Young Child</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Loren Anthony</name>
+        <role>Patient Other</role>
+        <order>10</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>McKenzie Scott</name>
+        <role>Woman in Sweats</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jamie Javier Gurreo</name>
+        <role>Burly Dude</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>
