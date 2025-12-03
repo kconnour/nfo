@@ -3,9 +3,10 @@
     <seasonnumber>1</seasonnumber>
     <title>Season 1</title>
     <premiered>2022-05-23</premiered>
+    <enddate>2022-05-27</enddate>
     <mpaa>TV-MA</mpaa>
 
-    <plot></plot>
+    <plot>Follow prehistoric creatures across different biomes as they fight for survival.</plot>
 
     <actor>
         <name>David Attenborough</name>
