@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>5</episode>
+    <title>Forests</title>
+    <premiered>2022-05-27</premiered>
+    <mpaa>TV-PG</mpaa>
+  
+    <plot></plot>
+
+    <director>Andrew R. Jones</director>
+    <director>Adam Valdez</director>
+    <writer>Matthew Wright</writer>
+
+    <actor>
+        <name>David Attenborough</name>
+        <role>Narrator</role>
+        <order>1</order>
+    </actor>
+</episodedetails>
