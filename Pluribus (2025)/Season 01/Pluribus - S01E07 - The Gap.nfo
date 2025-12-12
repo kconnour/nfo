@@ -4,11 +4,11 @@
     <episode>7</episode>
     <title>The Gap</title>
     <premiered>2025-12-12</premiered>
-    <mpaa>TV-MA</mpaa>
+    <mpaa>TV-14</mpaa>
 
-    <plot>Carol shares a horrific discovery and learns new truths in the process. Mr. Diabaté lives life to the fullest in Sin City.</plot>
+    <plot>Manousos begins a dangerous trek to meet Carol. Returning home from Las Vegas, Carol gets creative with her rebellion.</plot>
 
-    <director>Gordon Smith</director>
+    <director>Adam Bernstein</director>
     <writer>Jenn Carroll</writer>
 
     <actor>
@@ -22,63 +22,44 @@
         <order>2</order>
     </actor>
     <actor>
-        <name>Menik Gooneratne</name>
-        <role>Laxmi</role>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
         <order>3</order>
-        <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Rayaan Kamal Khan</name>
-        <role>Ravi</role>
+        <name>Jesse Ramirez</name>
+        <role>Concerned Villager</role>
         <order>4</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Merritt C. Glover</name>
-        <role>Nurse</role>
+        <name>Jota Ramos</name>
+        <role>Friendly Driver</role>
         <order>5</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Tara Southerland</name>
-        <role>Tatted-Out Orderly</role>
+        <name>Norman Patrick Brown</name>
+        <role>Villager #1</role>
         <order>6</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Roy Ward</name>
-        <role>Stone-Faced Man</role>
+        <name>Tina Griffin</name>
+        <role>Villager #2</role>
         <order>7</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Elliott Mayer</name>
-        <role>Placid Patient</role>
+        <name>Ama Zathura</name>
+        <role>Villager #3</role>
         <order>8</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Sam Appenzeller</name>
-        <role>Young Child</role>
+        <name>Katrina Golden</name>
+        <role>Villager #4</role>
         <order>9</order>
-        <type>GuestStar</type>
-    </actor>
-    <actor>
-        <name>Loren Anthony</name>
-        <role>Patient Other</role>
-        <order>10</order>
-        <type>GuestStar</type>
-    </actor>
-    <actor>
-        <name>McKenzie Scott</name>
-        <role>Woman in Sweats</role>
-        <order>11</order>
-        <type>GuestStar</type>
-    </actor>
-    <actor>
-        <name>Jamie Javier Gurreo</name>
-        <role>Burly Dude</role>
-        <order>12</order>
         <type>GuestStar</type>
     </actor>
 </episodedetails>
