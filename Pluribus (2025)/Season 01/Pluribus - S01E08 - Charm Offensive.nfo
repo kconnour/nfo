@@ -6,9 +6,9 @@
     <premiered>2025-12-19</premiered>
     <mpaa>TV-MA</mpaa>
 
-    <plot>Carol shares a horrific discovery and learns new truths in the process. Mr. Diabaté lives life to the fullest in Sin City.</plot>
+    <plot>Carol takes a different tack with The Others and discovers more than she anticipated. Manousos awakens in unfamiliar surroundings.</plot>
 
-    <director>Gordon Smith</director>
+    <director>Melissa Bernstein</director>
     <writer>Jonny Gomez</writer>
 
     <actor>
@@ -22,62 +22,61 @@
         <order>2</order>
     </actor>
     <actor>
-        <name>Menik Gooneratne</name>
-        <role>Laxmi</role>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
         <order>3</order>
-        <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Rayaan Kamal Khan</name>
-        <role>Ravi</role>
+        <name>Manoli Ioannidis</name>
+        <role>Doc Friendly</role>
         <order>4</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Merritt C. Glover</name>
+        <name>Ericka Zepeda</name>
         <role>Nurse</role>
         <order>5</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Tara Southerland</name>
-        <role>Tatted-Out Orderly</role>
+        <name>Jai Yunae</name>
+        <role>Bri</role>
         <order>6</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Roy Ward</name>
-        <role>Stone-Faced Man</role>
+        <name>Don Converse</name>
+        <role>Malcom</role>
         <order>7</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Elliott Mayer</name>
-        <role>Placid Patient</role>
+        <name>Annie Reed</name>
+        <role>Massage Therapist</role>
         <order>8</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Sam Appenzeller</name>
-        <role>Young Child</role>
+        <name>Larkin Bell</name>
+        <role>Roof Worker #1</role>
         <order>9</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Loren Anthony</name>
-        <role>Patient Other</role>
+        <name>Alexis Berent</name>
+        <role>Roof Worker #2</role>
         <order>10</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>McKenzie Scott</name>
-        <role>Woman in Sweats</role>
+        <name>Juwan Lakota</name>
+        <role>Roof Worker #3</role>
         <order>11</order>
         <type>GuestStar</type>
     </actor>
     <actor>
-        <name>Jamie Javier Gurreo</name>
-        <role>Burly Dude</role>
+        <name>Jamil Kwama</name>
+        <role>Roof Worker #4</role>
         <order>12</order>
         <type>GuestStar</type>
     </actor>
