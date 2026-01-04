@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>2</episode>
+    <title>Pirate Lady</title>
+    <premiered>2025-11-07</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>Carol meets some of the other uninfected to discuss humanity's future.</plot>
+
+    <director>Vince Gilligan</director>
+    <writer>Vince Gilligan</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Miriam Shor</name>
+        <role>Helen</role>
+        <order>3</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Samba Schutte</name>
+        <role>Mr. Diabaté</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Menik Gooneratne</name>
+        <role>Laxmi</role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Darinka Arones</name>
+        <role>Kusimayu</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Anna Mhairi</name>
+        <role>Vesper</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Max Reeves</name>
+        <role>Margaux</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Olivia Rouyre</name>
+        <role>Genevieve</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Amaraa Sanjid</name>
+        <role>Otgonbayar</role>
+        <order>10</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Khaliun Amarburen</name>
+        <role>Byamba</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Rayaan Kamal Khan</name>
+        <role>Ravi</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Piyush Gupta</name>
+        <role>Aarush</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Viji Nathan</name>
+        <role>Padma</role>
+        <order>14</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Sharon Gee</name>
+        <role>Xiu Mei</role>
+        <order>15</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>David Niu</name>
+        <role>Neu Xiansheng</role>
+        <order>16</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Elena Estér</name>
+        <role>T'ika</role>
+        <order>17</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jennifer Esquivel</name>
+        <role>Sisa</role>
+        <order>18</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Phuong Kubacki</name>
+        <role>Soleil</role>
+        <order>19</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Imani Love</name>
+        <role>Cleo</role>
+        <order>20</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Esther Omegba</name>
+        <role>Jasmine</role>
+        <order>21</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Kaabil Sekali</name>
+        <role>Partner</role>
+        <order>22</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Mohamed Azyane</name>
+        <role>Teenager</role>
+        <order>23</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>James Cady</name>
+        <role>Emmet</role>
+        <order>24</order>
+        <type>GuestStar</type>
+    </actor>
+        <actor>
+        <name>Kyle Bolt</name>
+        <role>Lineman</role>
+        <order>25</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Ashley Dunec</name>
+        <role>Shirley</role>
+        <order>26</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jennifer L. Bryan</name>
+        <role>Glam Squad Costumer</role>
+        <order>27</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Cheri Montesanto</name>
+        <role>Glam Squad Makeup Artist</role>
+        <order>28</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Trish Almeida</name>
+        <role>Glam Squad Hairstylist</role>
+        <order>29</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>

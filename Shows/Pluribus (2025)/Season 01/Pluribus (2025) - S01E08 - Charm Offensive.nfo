@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>8</episode>
+    <title>Charm Offensive</title>
+    <premiered>2025-12-19</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>The hive mind helps Carol get back into her routine and does just enough to help Manousos continue his journey.</plot>
+
+    <director>Melissa Bernstein</director>
+    <writer>Jonny Gomez</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
+        <order>3</order>
+    </actor>
+    <actor>
+        <name>Manoli Ioannidis</name>
+        <role>Doc Friendly</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Ericka Zepeda</name>
+        <role>Nurse</role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jai Yunae</name>
+        <role>Bri</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Don Converse</name>
+        <role>Malcom</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Annie Reed</name>
+        <role>Massage Therapist</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Larkin Bell</name>
+        <role>Roof Worker #1</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Alexis Berent</name>
+        <role>Roof Worker #2</role>
+        <order>10</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Juwan Lakota</name>
+        <role>Roof Worker #3</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jamil Kwama</name>
+        <role>Roof Worker #4</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>

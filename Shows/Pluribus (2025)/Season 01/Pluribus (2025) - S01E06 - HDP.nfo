@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>6</episode>
+    <title>HDP</title>
+    <premiered>2025-12-05</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>Carol shares her findings with Koumba and learns of the hive mind's plan.</plot>
+
+    <director>Gandja Monteiro</director>
+    <writer>Vera Blasi</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>John Cena</name>
+        <role>Self</role>
+        <order>3</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Samba Schutte</name>
+        <role>Mr. Diabaté</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>François Guétary</name>
+        <role>Blofinger</role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Soledad Campos</name>
+        <role>Maternal Other</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Anna Mhairi</name>
+        <role>Vesper</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Max Reeves</name>
+        <role>Margaux</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Olivia Rouyre</name>
+        <role>Genevieve</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jhordan Munn</name>
+        <role>Lady Luck</role>
+        <order>10</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Sharon Zhang</name>
+        <role>Nastya</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Joette Waters</name>
+        <role>Joette</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Fedor Steer</name>
+        <role>Bald Security</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>AC Larkin</name>
+        <role>Bearded Security</role>
+        <order>14</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>MJ Wolfe</name>
+        <role>Folded Player #1</role>
+        <order>15</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Desirée Mee Jung </name>
+        <role>Folded Player #2</role>
+        <order>16</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Henry Mark</name>
+        <role>Folded Player #3</role>
+        <order>17</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Ketrick "Jazz" Copeland</name>
+        <role>Folded Player #4</role>
+        <order>18</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Riley Del Rey</name>
+        <role>Game Watcher #1</role>
+        <order>19</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Danny Arroyo</name>
+        <role>Game Watcher #2</role>
+        <order>20</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Darrell Rivera</name>
+        <role>Game Watcher #3</role>
+        <order>21</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>

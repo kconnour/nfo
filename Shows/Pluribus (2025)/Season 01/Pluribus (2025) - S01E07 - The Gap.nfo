@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>7</episode>
+    <title>The Gap</title>
+    <premiered>2025-12-12</premiered>
+    <mpaa>TV-14</mpaa>
+
+    <plot>Manousos begins his journey to Albuquerque while Carol succumbs to loneliness.</plot>
+
+    <director>Adam Bernstein</director>
+    <writer>Jenn Carroll</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
+        <order>3</order>
+    </actor>
+    <actor>
+        <name>Jesse Ramirez</name>
+        <role>Concerned Villager</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jota Ramos</name>
+        <role>Friendly Driver</role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Norman Patrick Brown</name>
+        <role>Villager #1</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Tina Griffin</name>
+        <role>Villager #2</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Ama Zathura</name>
+        <role>Villager #3</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Katrina Golden</name>
+        <role>Villager #4</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>

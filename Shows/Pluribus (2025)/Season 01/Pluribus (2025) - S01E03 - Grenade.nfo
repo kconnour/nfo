@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>3</episode>
+    <title>Grenade</title>
+    <premiered>2025-11-14</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>The hive mind tries to cater to Carol's every want, much to her frustration and surprise.</plot>
+
+    <director>Gordon Smith</director>
+    <writer>Gordon Smith</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
+        <order>3</order>
+    </actor>
+    <actor>
+        <name>Miriam Shor</name>
+        <role>Helen</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Robert Bailey Jr.</name>
+        <role>DHL Guy</role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Thor Knai</name>
+        <role>Bjorn</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Tedd Taskey</name>
+        <role>Captain</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Matthew Page</name>
+        <role>First Officer</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Michael Ray</name>
+        <role>Polite Other</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>RaSandra Daniels</name>
+        <role>Other #2</role>
+        <order>10</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jeremiah Latrell Caldwell</name>
+        <role>Other #3</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Paris Maese</name>
+        <role>Other #4</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Michael Chochol</name>
+        <role>Sunning Other</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>

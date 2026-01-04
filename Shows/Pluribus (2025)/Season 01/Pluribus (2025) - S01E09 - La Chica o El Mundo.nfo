@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+    <season>1</season>
+    <episode>9</episode>
+    <title>La Chica o El Mundo</title>
+    <premiered>2025-12-24</premiered>
+    <mpaa>TV-MA</mpaa>
+
+    <plot>Carol and Manousos try to agree on a plan.</plot>
+
+    <director>Gordon Smith</director>
+    <writer>Alison Tatlock</writer>
+    <writer>Gordon Smith</writer>
+
+    <actor>
+        <name>Rhea Seehorn</name>
+        <role>Carol Sturka</role>
+        <order>1</order>
+    </actor>
+    <actor>
+        <name>Karolina Wydra</name>
+        <role>Zosia</role>
+        <order>2</order>
+    </actor>
+    <actor>
+        <name>Carlos-Manuel Vesga</name>
+        <role>Manousos Oviedo</role>
+        <order>3</order>
+    </actor>
+    <actor>
+        <name>Darinka Arones</name>
+        <role>Kusimayu</role>
+        <order>4</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Elena Estér</name>
+        <role>T'ika </role>
+        <order>5</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jennifer Esquivel</name>
+        <role>Sisa</role>
+        <order>6</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Brenden Roberts</name>
+        <role>Rick</role>
+        <order>7</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Sofia Embid</name>
+        <role>Translator</role>
+        <order>8</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Henry Kingi</name>
+        <role>Quechua Driver</role>
+        <order>9</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Anaís Azul</name>
+        <role>Quechua Neighbor #1</role>
+        <order>10</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Amelia Rico</name>
+        <role>Quechua Neighbor #2</role>
+        <order>11</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jennifer Bravo</name>
+        <role>Quechua Neighbor #3</role>
+        <order>12</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Lucia Ramos</name>
+        <role>Quechua Neighbor #4</role>
+        <order>13</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Will Chavez</name>
+        <role>Quechua Neighbor #5</role>
+        <order>14</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Alfredo Quiroz</name>
+        <role>Quechua Neighbor #6</role>
+        <order>15</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Arthur Red Cloud</name>
+        <role>Quechua Neighbor #7</role>
+        <order>16</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Cinthya Rey</name>
+        <role>Quechua Neighbor #8</role>
+        <order>17</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Lily Joy Winder</name>
+        <role>Quechua Neighbor #9</role>
+        <order>18</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Rhett Lynch</name>
+        <role>Quechua Neighbor #10</role>
+        <order>19</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Tyler Kie</name>
+        <role>Quechua Neighbor #11</role>
+        <order>20</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Dawna Walters</name>
+        <role>Quechua Neighbor #12</role>
+        <order>21</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Chrissie Waquie</name>
+        <role>Quechua Neighbor #13</role>
+        <order>22</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Zach Concha</name>
+        <role>Quechua Neighbor #14</role>
+        <order>23</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Dennis Manuelito, Jr.</name>
+        <role>Quechua Neighbor #15</role>
+        <order>24</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Colette Ramone</name>
+        <role>Quechua Neighbor #16</role>
+        <order>25</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Lorrie Hernandez</name>
+        <role>Quechua Neighbor #17</role>
+        <order>26</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Jalon Holiday</name>
+        <role>Quechua Neighbor #18</role>
+        <order>27</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Arlene Alvarez</name>
+        <role>Quechua Neighbor #19</role>
+        <order>28</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Tiana Lozoya</name>
+        <role>Quechua Neighbor #20</role>
+        <order>29</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Psalm Guerra</name>
+        <role>Quechua Neighbor #21</role>
+        <order>30</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Chris Ortega</name>
+        <role>Quechua Neighbor #22</role>
+        <order>31</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Natashia Ortega</name>
+        <role>Quechua Neighbor #23</role>
+        <order>32</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Josh Castillo</name>
+        <role>Quechua Neighbor #24</role>
+        <order>33</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Lawrence Robertson</name>
+        <role>Quechua Neighbor #25</role>
+        <order>34</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Patricia Shain</name>
+        <role>Quechua Neighbor #26</role>
+        <order>35</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Christian Gering</name>
+        <role>Quechua Neighbor #27</role>
+        <order>36</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Louis Cuellar</name>
+        <role>Quechua Neighbor #28</role>
+        <order>37</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Henrietta Duran</name>
+        <role>Quechua Neighbor #29</role>
+        <order>38</order>
+        <type>GuestStar</type>
+    </actor>
+    <actor>
+        <name>Victoria Grant</name>
+        <role>Quechua Neighbor #30</role>
+        <order>39</order>
+        <type>GuestStar</type>
+    </actor>
+</episodedetails>
